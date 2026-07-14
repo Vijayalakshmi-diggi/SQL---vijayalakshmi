@@ -1,2 +1,0 @@
-CREATE DATABASE PRACTICES;
-C:\Users\VijayalakshmiV\OneDrive - DIGGIBYTE TECHNOLOGIES PRIVATE LIMITED\Desktop\practice\src\backup.sql
